@@ -49,12 +49,12 @@ from aiogram.client.default import DefaultBotProperties
 
 # ── Конфигурация ─────────────────────────────────────────────────────────────
 BOT_TOKEN   = '8811236577:AAF69y3PKVWMTlBEXEW-p1g8chZZz8dXqVA'
-OWNERS      = [79, 89]
+OWNERS      = [8259823549]
 DB_NAME     = 'bot_database.db'
-PAYOUT_CHAT_ID  = -100
-PAYOUT_TOPIC_ID = 5
+PAYOUT_CHAT_ID  = -1003967966871
+PAYOUT_TOPIC_ID = 12
 PAYOUT_PERCENTAGE = 0.7
-CHANNEL_USERNAME  = 'юзгруппы'
+CHANNEL_USERNAME  = '-1003967966871'
 BANNER_PATH = 'banner.png'
 
 WORK_TYPES = {
